@@ -11,6 +11,7 @@ Create a professional README for a new project Quickly
   - [Installation](#installation)
   - [Usage](#usage)
   - [Full Walkthrough Video](#full-walkthrough-video)
+  - [License](#license)
 
 ## Description
 
@@ -30,8 +31,15 @@ This README generator will allow the user to answer a series of specific questio
 ## Usage
 
 1. Open integrated terminal in personal IDE.
-2. Run node index.js.
-3. Answer the prompts that follow.
-4. A sampleREADME.md will be generated and stored in "utils" folder.
+2. Run npm i
+3. Run node index.js.
+4. Answer the prompts that follow.
+5. A sampleREADME.md will be generated and stored in "utils" folder.
 
 ## Full Walkthrough Video
+
+[Walkthrough Video](https://drive.google.com/file/d/1L24564lZzsv3l9NL3h_cn8Bn-iRD3xQM/view)
+
+## License
+
+[MIT License](LICENSE)
